@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jorkesp.github.io/sitemap.html.gz
+Sitemap: https://jorkesp.github.io/app/sitemap.html.gz
+Sitemap: https://jorkesp.github.io/assets/sitemap.html.gz
+Sitemap: https://jorkesp.github.io/css/sitemap.html.gz
+Sitemap: https://jorkesp.github.io/data/sitemap.html.gz
+Sitemap: https://jorkesp.github.io/includes/sitemap.html.gz
+Sitemap: https://jorkesp.github.io/item/sitemap.html.gz
+Sitemap: https://jorkesp.github.io/src/sitemap.html.gz
